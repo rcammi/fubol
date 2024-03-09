@@ -1,0 +1,25 @@
+Team	P	W	D	L	GF	GA	GD	Pts	Form
+1Boca Juniors	23	14	6	3	35	8	+27	48	WWWWWW
+2River Plate	23	14	5	4	41	18	+23	47	WWWWDD
+3Velez Sarsfield	23	11	6	6	27	14	+13	39	DLWWLW
+4Racing Club	23	9	12	2	28	23	+5	39	DWDWDW
+5Argentinos Juniors	23	10	9	4	22	17	+5	39	DDWDLW
+6Defensa y Justicia	23	10	6	7	26	18	+8	36	DDWWDW
+7Lanus	23	9	9	5	32	29	+3	36	WDDDDL
+8San Lorenzo	23	11	3	9	32	30	+2	36	LWLLWW
+9Rosario Central	23	9	9	5	31	29	+2	36	LDWLWL
+10Newell's Old Boys	23	9	8	6	33	25	+8	35	WDDWDL
+11Arsenal Sarandi	23	9	7	7	37	32	+5	34	DDDLLW
+12Talleres	23	10	4	9	34	30	+4	34	LDWWLW
+13Estudiantes	23	8	6	9	23	22	+1	30	WDLLDL
+14Independiente	23	8	5	10	27	25	+2	29	WLDLLW
+15Atletico Tucuman	23	7	8	8	22	25	-3	29	DLLDLD
+16Union	23	7	6	10	21	30	-9	27	LLLDWL
+17Banfield	23	6	8	9	19	23	-4	26	WDLLDL
+18Central Cordoba de Santiago	23	6	8	9	21	29	-8	26	LWLDDL
+19Gimnasia LP	23	6	5	12	22	23	-1	23	DDLWWL
+20Patronato de Parana	23	5	8	10	22	34	-12	23	DDWDWL
+21Huracan	23	5	7	11	17	27	-10	22	DLLLWW
+22Aldosivi	23	6	4	13	20	35	-15	22	DLWWLL
+23Colon	23	5	3	15	17	39	-22	18	LDDLLL
+24Godoy Cruz	23	6	0	17	22	46	-24	18	LWLLWW
