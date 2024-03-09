@@ -1,0 +1,30 @@
+Season,Squad,Country,Comp,LgRank,MP,W,D,L,GF,GA,GDiff,Pts,Attendance,Top Team Scorer,Goalkeeper,Notes
+2020-2021,Leeds United,eng ENG,1. Premiership,
+2019-2020,Leeds United,eng ENG,2. Championship,1st,45,27,9,9,73,35,+38,90,35321,Patrick Bamford - 16,Kiko Casilla,Promoted
+2018-2019,Leeds United,eng ENG,2. Championship,3rd,46,25,8,13,73,50,+23,83,34033,Kemar Roofe - 14,Bailey Peacock-Farrell,→ Semi-finals
+2017-2018,Leeds United,eng ENG,2. Championship,13th,46,17,9,20,59,64,-5,60,31525,Kemar Roofe - 11,Felix Wiedwald,
+2016-2017,Leeds United,eng ENG,2. Championship,7th,46,22,9,15,61,47,+14,75,27698,Chris Wood - 27,Robert Green,
+2015-2016,Leeds United,eng ENG,2. Championship,13th,46,14,17,15,50,58,-8,59,22446,Chris Wood - 13,Marco Silvestri,
+2014-2015,Leeds United,eng ENG,2. Championship,15th,46,15,11,20,50,61,-11,56,24052,Mirco Antenucci - 10,Marco Silvestri,
+2013-2014,Leeds United,eng ENG,2. Championship,15th,46,16,9,21,59,67,-8,57,25088,Ross McCormack - 28,Paddy Kenny,
+2012-2013,Leeds United,eng ENG,2. Championship,13th,46,17,10,19,57,66,-9,61,21572,Luciano Becchio - 16,Paddy Kenny,
+2011-2012,Leeds United,eng ENG,2. Championship,14th,46,17,10,19,65,68,-3,61,23283,Ross McCormack - 18,Andy Lonergan,
+2010-2011,Leeds United,eng ENG,2. Championship,7th,46,19,15,12,81,70,+11,72,27299,Luciano Becchio - 19,Kasper Schmeichel,
+2009-2010,Leeds United,eng ENG,3. League One,2nd,46,25,11,10,77,44,+33,86,24818,Jermaine Beckford - 25,Casper Ankergren,Promoted
+2008-2009,Leeds United,eng ENG,3. League One,4th,46,26,6,14,77,49,+28,84,23639,Jermaine Beckford - 26,Casper Ankergren,→ Semi-finals
+2007-2008,Leeds United,eng ENG,3. League One,5th,46,27,10,9,72,38,+34,76,26546,Jermaine Beckford - 20,Casper Ankergren,→ Semi-finals  15-point deduction *
+2006-2007,Leeds United,eng ENG,2. Championship,24th,46,13,7,26,46,72,-26,36,21613,David Healy - 11,Casper Ankergren,Relegated 10-point deduction *
+2005-2006,Leeds United,eng ENG,2. Championship,5th,46,21,15,10,57,38,+19,78,22891,Rob Hulse David Healy - 12,Neil Sullivan,→ Semi-finals
+2004-2005,Leeds United,eng ENG,2. Championship,14th,46,14,18,14,49,52,-3,60,29207,David Healy - 12,Neil Sullivan,
+2003-2004,Leeds United,eng ENG,1. Premiership,19th,38,8,9,21,40,79,-39,33,36666,Mark Viduka - 11,Paul Robinson,Relegated
+2002-2003,Leeds United,eng ENG,1. Premiership,15th,38,14,5,19,58,57,+1,47,39120,Mark Viduka - 20,Paul Robinson,
+2001-2002,Leeds United,eng ENG,1. Premiership,5th,38,18,12,8,53,37,+16,66,39752,Robbie Fowler - 15,Nigel Martyn,→ UEFA Cup via league finish
+2000-2001,Leeds United,eng ENG,1. Premiership,4th,38,20,8,10,64,43,+21,68,38974,Mark Viduka - 17,Nigel Martyn,→ UEFA Cup via league finish
+1999-2000,Leeds United,eng ENG,1. Premiership,3rd,38,21,6,11,58,43,+15,69,39154,Michael Bridges - 19,Nigel Martyn,→ UEFA Champions League via league finish
+1998-1999,Leeds United,eng ENG,1. Premiership,4th,38,18,13,7,62,34,+28,67,35845,Jimmy Floyd Hasselbaink - 18,Nigel Martyn,→ UEFA Cup via league finish
+1997-1998,Leeds United,eng ENG,1. Premiership,5th,38,17,8,13,57,46,+11,59,34444,Jimmy Floyd Hasselbaink - 16,Nigel Martyn,→ UEFA Cup via league finish
+1996-1997,Leeds United,eng ENG,1. Premiership,11th,38,11,13,14,28,38,-10,46,32109,Brian Deane Lee Sharpe - 5,Nigel Martyn,
+1995-1996,Leeds United,eng ENG,1. Premiership,13th,38,12,7,19,40,57,-17,43,32413,Tony Yeboah - 12,John Lukic,
+1994-1995,Leeds United,eng ENG,1. Premiership,5th,42,20,13,9,59,38,+21,73,33433,Tony Yeboah - 12,John Lukic,→ UEFA Cup via league finish
+1993-1994,Leeds United,eng ENG,1. Premiership,5th,42,18,16,8,65,39,+26,70,36368,Rod Wallace - 17,Mark Beeney,
+1992-1993,Leeds United,eng ENG,1. Premiership,17th,42,12,15,15,57,62,-5,51,29229,Lee Chapman - 13,John Lukic,
