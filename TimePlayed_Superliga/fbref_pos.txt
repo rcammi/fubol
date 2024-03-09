@@ -1,0 +1,25 @@
+Rk,Squad,Pts
+1,Boca Juniors,48
+2,River Plate,47
+3,Vélez Sarsf,39
+4,Racing Club,39
+5,Argentinos Jun,39
+6,Defensa y Just,36
+7,Lanús,36
+8,San Lorenzo,36
+9,Rosario Cent,36
+10,Newell's OB,35
+11,Arsenal,34
+12,Talleres,34
+13,Estudiantes,30
+14,Independiente,29
+15,Tucumán,29
+16,CA Unión,27
+17,Banfield,26
+18,CC Córdoba,26
+19,Gimnasia ELP,23
+20,Patronato,23
+21,CA Huracán,22
+22,Aldosivi,22
+23,Colón,18
+24,Godoy Cruz,18
